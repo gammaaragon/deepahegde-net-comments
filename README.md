@@ -28,4 +28,4 @@ ones.
 
 A comment on the article's own thread is the best place. For anything you
 would rather not post publicly, the site has a
-[contact page](https://deepahegde.net/contact/).
+[contact page](https://deepahegde.net/about/contact/).
